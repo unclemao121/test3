@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --backend -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
+& "D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --backend -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
 }
 else
 {
-& "D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --debug_file=$debugfile --backend -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
+& "D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --debug_file=$debugfile --backend -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
 }

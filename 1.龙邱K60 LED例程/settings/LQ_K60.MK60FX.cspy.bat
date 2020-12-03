@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --backend -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
+"D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" --backend -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" "--debug_file=%~1" --backend -f "D:\OneDrive\桌面\example\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
+"D:\IAR\IAR\common\bin\cspybat" -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.general.xcl" "--debug_file=%~1" --backend -f "D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\settings\LQ_K60.MK60FX.driver.xcl" 
 
 @echo off 
 :end

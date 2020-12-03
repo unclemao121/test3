@@ -1,29 +1,29 @@
-"D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\User\main.c"
+"D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\User\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\User
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\User
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\User
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\User
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Project_Setting\Libs
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Project_Setting\Libs
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Project_Setting\Startup
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Project_Setting\Startup
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Drive
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Drive
 -I
 D:\IAR\IAR\arm\inc
 -I
 D:\IAR\IAR\arm\inc\c
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\User
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\User
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Project_Setting\Libs
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Project_Setting\Libs
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Project_Setting\Startup
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Project_Setting\Startup
 -I
-D:\OneDrive\桌面\example\1.龙邱K60 LED例程\src\Drive
+D:\OneDrive\桌面\test3\1.龙邱K60 LED例程\src\Drive
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

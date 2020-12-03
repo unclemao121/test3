@@ -1,0 +1,17 @@
+"D:\IAR\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\IAR\arm\bin\armjlink2.dll" 
+
+"D:\OneDrive\桌面\example\1.龙邱K60 LED例程\MK60FX\Exe\c.out" 
+
+--plugin="D:\IAR\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\IAR\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\IAR\IAR\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
